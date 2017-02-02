@@ -2,6 +2,6 @@
   "movies": [
     { "title": "Better late than never", "summary": "ok?", "description": "mi desc.", "from": "Some old dude", "uri": "https://s3.amazonaws.com/radiocustomers/active_customers/imgs/react.png" },
     { "title": "Better late than never", "summary": "ok?", "description": "mi desc.", "from": "Some old dude", "uri": "https://s3.amazonaws.com/radiocustomers/active_customers/imgs/react.png" },	  
-    { "title": "Better late than never", "summary": "ok?", "description": "mi desc.", "from": "Some old dude", "uri": "https://s3.amazonaws.com/radiocustomers/active_customers/imgs/react.png" },
+    { "title": "Better late than never", "summary": "ok?", "description": "mi desc.", "from": "Some old dude", "uri": "https://s3.amazonaws.com/radiocustomers/active_customers/imgs/react.png" }
   ]
 }
