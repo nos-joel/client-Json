@@ -1,8 +1,7 @@
 {
-	"businesses": 
     [
-      {"name": "bone"},
-      {"name": "btwo"},
-      {"name": "bthree"}
+      {"title": "bone"},
+      {"title": "btwo"},
+      {"title": "bthree"}
     ]
 }
