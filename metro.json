@@ -1,7 +1,9 @@
 {
   "movies": [
-    { "title": "Better late than never", "summary": "ok?", "description": "mi desc.", "from": "Some old dude", "uri": "https://s3.amazonaws.com/radiocustomers/active_customers/imgs/react.png" },
-    { "title": "Better late than never", "summary": "ok?", "description": "mi desc.", "from": "Some old dude", "uri": "https://s3.amazonaws.com/radiocustomers/active_customers/imgs/react.png" },	  
-    { "title": "Better late than never", "summary": "ok?", "description": "mi desc.", "from": "Some old dude", "uri": "https://s3.amazonaws.com/radiocustomers/active_customers/imgs/react.png" }
+    { "title": "Star Wars", "releaseYear": "1977"},
+    { "title": "Back to the Future", "releaseYear": "1985"},
+    { "title": "The Matrix", "releaseYear": "1999"},
+    { "title": "Inception", "releaseYear": "2010"},
+    { "title": "Interstellar", "releaseYear": "2014"}
   ]
 }
