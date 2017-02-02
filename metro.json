@@ -1,15 +1,7 @@
 {
   "movies": [
-    { "title": "Better late than never", 
-		"summary": "This is a summary of the summary. Remember that!, ok?",
-		"description": "In the above example, the newly pushed scene will float up from the bottom. See Navigator.SceneConfigs for default animations and more info on available scene config options.", 
-		"from": "Some old dude",
-		"uri": "https://s3.amazonaws.com/radiocustomers/active_customers/imgs/react.png" },
-    
-    { "title": "Better late than never", 
-		"summary": "This is a summary of the summary. Remember that!, ok?",
-		"description": "In the above example, the newly pushed scene will float up from the bottom. See Navigator.SceneConfigs for default animations and more info on available scene config options.", 
-		"from": "Some old dude",
-		"uri": "https://s3.amazonaws.com/radiocustomers/active_customers/imgs/react.png" },
+    { "title": "Better late than never", "summary": "ok?", "description": "mi desc.", "from": "Some old dude", "uri": "https://s3.amazonaws.com/radiocustomers/active_customers/imgs/react.png" },
+    { "title": "Better late than never", "summary": "ok?", "description": "mi desc.", "from": "Some old dude", "uri": "https://s3.amazonaws.com/radiocustomers/active_customers/imgs/react.png" },	  
+    { "title": "Better late than never", "summary": "ok?", "description": "mi desc.", "from": "Some old dude", "uri": "https://s3.amazonaws.com/radiocustomers/active_customers/imgs/react.png" },
   ]
 }
