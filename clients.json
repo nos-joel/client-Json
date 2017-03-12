@@ -1,0 +1,44 @@
+{
+  "radios":
+[
+  {"name": "LA X", "ads":[
+      { "client": "Beautiful Body", "title": "Limpieza Corporal", "summary": "New Hope. This was a great beginning. Nice dude", "description": "Star Wars movie was so great that people did not know how big it was gonna be."},
+    ]
+  },
+  {"name": "El Despelote","ads":[
+      { "client": "Disney Lucas Film LTD", "title": "Star Wars Two", "summary": "Empire Strikes Back .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be."},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+    ]
+  },
+  {"name": "El Circo","ads":[
+      { "client": "Disney Lucas Film LTD", "title": "Star Wars Two", "summary": "Empire Strikes Back .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be."},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+    ]
+  },
+  {"name": "Estereotempo","ads":[
+      { "client": "Disney Lucas Film LTD", "title": "Star Wars Two", "summary": "Empire Strikes Back .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be."},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+    ]
+  },
+  {"name": "Fidelity","ads":[
+      { "client": "Disney Lucas Film LTD", "title": "Star Wars Two", "summary": "Empire Strikes Back .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be."},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+      { "client": "Disney Lucas Film LTD", "title": "Star Wars Two", "summary": "Empire Strikes Back .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be."},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+      { "client": "Lucas Film LTD", "title": "Star Wars Three", "summary": "Return of the Jedi .... So so great yeahh", "description": "Star Wars movie was so great that people did not know how big it was gonna be. Better than expected"},
+    ]
+  },
+
+]
+}
